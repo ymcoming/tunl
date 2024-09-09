@@ -14,7 +14,7 @@ path = "/trojan"
 password = "test"
 
 [outbound]
-addresses = ["bwg.818618.xyz"]
+addresses = ["relay1.bepass.org"]
 port = 6666
 protocol = "relay_v1"
 match = [
